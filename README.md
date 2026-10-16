@@ -18,7 +18,7 @@ I'm an Electronics and Communication Engineering student at VIT Chennai who enjo
 Python · LLMs · Generative AI · Prompt Engineering · RAG · Embeddings · Semantic Search · LLM Tool Calling · LangGraph
 
 ### Programming & Software Development
-Python · C++ · Java · SQL · HTML5 · CSS3 · Object-Oriented Programming · Data Structures & Algorithms · REST APIs
+Python · C++  · SQL · HTML5 · CSS3 · Object-Oriented Programming · Data Structures & Algorithms 
 
 ### Libraries & Frameworks
 FastAPI · Pydantic · Sentence Transformers · NumPy · Requests · Matplotlib
