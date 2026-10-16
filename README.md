@@ -66,7 +66,7 @@ Alongside software and AI, I'm developing practical skills in circuit design, se
 
 Developing a graph-based restaurant ordering agent with state management, conditional routing, inventory validation, customer confirmation, and retry handling.
 
-> Repository: Add your Restaurant Order Management Agent link here.
+[View Repository](https://github.com/Ashutoshumar17/Restaurant-Order-Automation-Agent.git)
 
 ### 2. 🤖 AI Agent
 **Python · Groq · LLM Tool Calling · Tavily**
