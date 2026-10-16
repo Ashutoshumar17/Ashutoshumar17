@@ -5,7 +5,7 @@
 
 I'm an Electronics and Communication Engineering student at VIT Chennai interested in building practical software, AI-powered applications, and electronics projects.
 
-I'm exploring LLM-powered applications and AI agents while strengthening my knowledge of embedded systems, digital signal processing, microcontrollers, and CMOS VLSI design.
+I'm exploring LLM-powered applications and AI agents while strengthening my knowledge of embedded systems, digital signal processing and CMOS VLSI design.
 
 - 🔭 Currently building AI agents and exploring LangGraph workflows
 - 🌱 Learning DSA, Generative AI, and embedded systems
