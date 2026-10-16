@@ -1,34 +1,95 @@
-## Hi there 👋
+# Hi, I'm Ashutosh Kumar 👋
 
-<!--
-**Ashutoshumar17/Ashutoshumar17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ECE Undergraduate @ VIT Chennai | AI & GenAI | Python | Embedded Systems**
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student at VIT Chennai who enjoys building practical software and engineering projects. I'm exploring Generative AI, LLM-powered applications, and AI agents while continuing to develop my foundations in electronics, embedded systems, signal processing, and VLSI design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-Hi there! 👋<br><br>I'm an Electronics and Communication Engineering (ECE) student at VIT Chennai who enjoys building software and embedded systems. I'm passionate about AI, Python, and creating projects that solve real-world problems. Currently, I'm sharpening my DSA skills while exploring embedded systems and AI Agents/LLms.<br><br>Languages  : Python, C++, HTML5/CSS3, SQL,<br>Frameworks & Libraries  :   Vite, Requests, pyttsx3, Matplotlib, NumPy (Basics)<br>Databases :  MySQL <br>Developer Tools :  Git, GitHub, VS Code, Netlify, Overleaf<br>ECE Skills         : Digital Electronics, Analog Electronics,<br>                     Microprocessors & Microcontrollers,<br>                     Communication Systems, Signal Processing,<br>                     CMOS VLSI Design, Circuit Design<br>Core Concepts   :  Data Structures & Algorithms, Object-Oriented Programming,  APIs.<br>Engineering Tools  : MATLAB, Cadence Virtuoso, Ansys HFSS, LTspice
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashutosh-kumar-4732083) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ashutosh Kumar ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.kumar2024a@vitstudent.ac.in) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ashutoshumar17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ashutoshumar17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashutoshumar17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 Currently building: AI agents and LangGraph-based workflows
+- 🌱 Learning: DSA, LLM applications, RAG, and embedded systems
+- 💻 Interested in: AI Engineering, GenAI, Python development, and ECE applications
+- 🎓 Education: B.Tech in Electronics and Communication Engineering, VIT Chennai
+- 🤝 Open to: Internships, technical collaborations, and learning opportunities
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ashutoshumar17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Technical Skills
+
+### AI, GenAI & NLP
+Python · LLMs · Generative AI · Prompt Engineering · RAG · Embeddings · Semantic Search · LLM Tool Calling · LangGraph
+
+### Programming & Software Development
+Python · C++ · Java · SQL · HTML5 · CSS3 · Object-Oriented Programming · Data Structures & Algorithms · REST APIs
+
+### Libraries & Frameworks
+FastAPI · Pydantic · Sentence Transformers · NumPy · Requests · Matplotlib
+
+### AI APIs & Developer Tools
+Groq API · Tavily API · Git · GitHub · VS Code · Streamlit
+
+### Databases
+MySQL · SQLite
+
+### Electronics & Communication Engineering
+Digital Electronics · Analog Electronics · Microprocessors & Microcontrollers · Communication Systems · Signal Processing · CMOS VLSI Design · Circuit Design
+
+### Engineering Tools
+MATLAB · Cadence Virtuoso · Ansys HFSS · LTspice · Proteus
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 Restaurant Order Management AI Agent
+**Python · LangGraph · Groq API**
+
+Building a graph-based restaurant ordering agent with stateful workflow management, conditional routing, inventory validation, and retry handling.
+
+### 🧠 AI Agent
+**Python · Groq · LLM Tool Calling · Tavily**
+
+An AI agent that interprets natural-language queries, selects tools, executes operations, and uses tool results to generate responses.
+
+[View Repository](https://github.com/Ashutoshumar17/Ai_Agent)
+
+### 📄 Hireme — AI Resume Assistant
+**Python · FastAPI · Groq API · Pydantic**
+
+An AI-powered resume assistant for extracting structured candidate information from PDF resumes and answering questions grounded in resume content.
+
+[View Repository](https://github.com/Ashutoshumar17/AI-Resume-Assistant)
+
+### 🔎 RAG-based Q&A System
+**Python · Sentence Transformers · NumPy · Groq**
+
+A Retrieval-Augmented Generation system that uses embeddings and cosine similarity to retrieve relevant information before generating responses.
+
+[View Repository](https://github.com/Ashutoshumar17/RAG_QnA)
+
+### 🎧 Audio DSP / Digital Hearing Aid
+**Python · Digital Signal Processing · Streamlit**
+
+An ECE-focused project exploring audio processing, frequency-domain analysis, filtering, and visualization.
+
+[View Repository](https://github.com/Ashutoshumar17/AudioDSP-HearingAid)
+
+---
+
+## 🌐 Connect With Me
+
+- **GitHub:** [Ashutoshumar17](https://github.com/Ashutoshumar17)
+- **LinkedIn:** [Ashutosh Kumar](https://linkedin.com/in/ashutosh-kumar-473208370)
+- **Email:** [Ashutosh.kumar2024@vitstudent.ac.in](mailto:Ashutosh.kumar2024@vitstudent.ac.in)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutoshumar17&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshumar17&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ashutoshumar17&theme=tokyonight&hide_border=true)
+
+---
+
+*Building, learning, and exploring the intersection of AI and Electronics & Communication Engineering.*
