@@ -1,4 +1,4 @@
-```markdown
+
 # Hi, I'm Ashutosh Kumar 👋
 
 ### ECE Undergraduate @ VIT Chennai | AI & GenAI | Embedded Systems | CMOS VLSI
