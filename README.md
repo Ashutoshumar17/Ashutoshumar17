@@ -1,142 +1,78 @@
-
 # Hi, I'm Ashutosh Kumar 👋
 
-### ECE Undergraduate @ VIT Chennai | AI & GenAI | Embedded Systems | CMOS VLSI
+Electronics and Communication Engineering (ECE) student at **VIT Chennai** (B.Tech, 2024 – 2028) who enjoys building software and embedded systems. I build **LLM agents, RAG pipelines, and FastAPI services in Python**, and I'm also exploring embedded systems and sharpening my DSA.
 
-I'm an Electronics and Communication Engineering student at VIT Chennai interested in building practical software, AI-powered applications, and electronics projects.
-
-I'm exploring LLM-powered applications and AI agents while strengthening my knowledge of embedded systems, digital signal processing and CMOS VLSI design.
-
-- 🔭 Currently building AI agents and exploring LangGraph workflows
-- 🌱 Learning DSA, Generative AI, and embedded systems
-- 💻 Interested in AI Engineering, Python development, and core ECE
-- 🎓 B.Tech in Electronics and Communication Engineering
-- 🤝 Open to internships, collaborations, and learning opportunities
+**Currently:** building AI agents and LLM applications · practising DSA · exploring embedded systems
 
 ---
 
-## 🛠️ Technical Skills
+## ☁️ Cloud & Backend Project
 
-### 🤖 AI, Generative AI & NLP
-Python · LLMs · Generative AI · Prompt Engineering · RAG · Embeddings · Semantic Search · LLM Tool Calling · LangGraph
+| Project | What it does | Stack |
+|---|---|---|
+| **Cloud-Integrated Smart Attendance System** <!-- TODO: add repo link: [**Cloud-Integrated Smart Attendance System**](https://github.com/Ashutoshumar17/YOUR-REPO-NAME) --> | Client-server web app with a FastAPI REST API deployed on AWS EC2 (Windows Server). MongoDB Atlas uses a compound unique index on `{student_id, session_id}` to enforce idempotent check-ins. Includes WebRTC camera streaming on the frontend, audit logging, and an admin dashboard with live attendance ratios, absence calculations and CSV reports. | FastAPI, Uvicorn, AWS EC2, MongoDB Atlas, JavaScript, REST API |
 
-### 💻 Programming & Software Development
-Python · C++ · Java · SQL · HTML5 · CSS3 · Object-Oriented Programming · Data Structures & Algorithms · REST APIs
+## 🤖 AI / LLM Projects
 
-### ⚙️ Libraries & Frameworks
-LangGraph · FastAPI · Pydantic · Sentence Transformers · NumPy · Requests · Matplotlib · Vite
+| Project | What it does | Stack |
+|---|---|---|
+| [**Restaurant Order Management AI Agent**](https://github.com/Ashutoshumar17/LangGraph-Restaurant-Order-Agent) | LangGraph agent that interprets natural-language orders and runs a stateful workflow: validation, inventory availability, customer confirmation, cooking and serving, with conditional routing, partial-availability handling and retry logic. | Python, LangGraph, Groq API |
+| [**Hireme – AI Resume Assistant**](https://github.com/Ashutoshumar17/AI-Resume-Assistant) | FastAPI service that accepts PDF resumes, extracts candidate data into Pydantic-validated JSON, and answers recruiter questions grounded in the parsed resume. | Python, FastAPI, Pydantic, Groq API, pypdf |
+| [**RAG-based Q&A System**](https://github.com/Ashutoshumar17/RAG_QnA) | Retrieval-Augmented Generation pipeline: embeds a knowledge base with all-MiniLM-L6-v2, ranks documents by cosine similarity, and generates answers with GPT-OSS-120B. | Python, Sentence Transformers, NumPy, Groq API |
+| [**Tool-Calling AI Agent**](https://github.com/Ashutoshumar17/Ai_Agent) | Agent loop on GPT-OSS-120B that selects tools via LLM tool calling for web search, weather and calculations. | Python, Groq API, Tavily |
+| [**Resume-Shortlister**](https://github.com/Ashutoshumar17/Resume-Shortlister) | Resume screening system that parses resumes, extracts structured information, matches candidates against job descriptions and ranks applicants. | Python, Groq (Llama 3.3) |
 
-### 🔌 APIs & Developer Tools
-Groq API · Tavily API · Git · GitHub · VS Code · Netlify · Overleaf
+## 🔧 Other Projects
 
-### 🗄️ Databases
-MySQL · SQLite
-
----
-
-## ⚡ Electronics & Communication Engineering
-
-Alongside software and AI, I'm developing practical skills in circuit design, semiconductor devices, embedded systems, and electronic system simulation.
-
-### Core ECE Domains
-
-- **Digital Electronics:** Combinational and sequential logic, multiplexers, encoders, decoders, and flip-flops.
-- **Analog Electronics:** Semiconductor devices, transistor circuits, amplifiers, and circuit analysis.
-- **Microprocessors & Microcontrollers:** 8051 architecture, assembly programming, LCD interfacing, and peripheral connections.
-- **Embedded Systems:** Embedded C, microcontroller programming, and hardware interfacing.
-- **Signal Processing:** Signals and systems, digital filtering, frequency-domain analysis, and audio DSP.
-- **Communication Systems:** Analog and digital modulation and communication fundamentals.
-- **CMOS VLSI Design:** CMOS logic, transistor-level design, SRAM cells, ring oscillators, and physical layout.
-- **Control Systems:** Feedback systems, frequency response, stability analysis, and PID control.
-
-### Engineering Tools
-
-- MATLAB
-- Cadence Virtuoso
-- Ansys HFSS
-- LTspice
-- Proteus
+- [**AI_Weather_Assistant**](https://github.com/Ashutoshumar17/AI_Weather_Assistant): real-time weather information with voice output (Python, Requests, WeatherAPI, pyttsx3)
+- [**FIFO-Inventory-Management-System**](https://github.com/Ashutoshumar17/FIFO-Inventory-Management-System): Python inventory system implementing FIFO valuation
 
 ---
 
-## 🚀 Featured AI & Software Projects
+## 💻 Tech Stack
 
-### 1. 🍽️ Restaurant Order Management AI Agent
-**Python · LangGraph · Groq API**
+**Languages:** Python · C++ · SQL · JavaScript · HTML5/CSS3 · Java
+**AI / LLM:** LLM Agents · LangGraph · Tool/Function Calling · RAG · Embeddings · Semantic Search · Prompt Engineering · Structured Outputs
+**Frameworks & Libraries:** FastAPI · Pydantic · Sentence Transformers · NumPy · Matplotlib · Requests · pyttsx3 · Vite
+**Backend & Cloud:** FastAPI · Uvicorn · REST APIs · AWS EC2
+**APIs:** Groq API · Tavily Search API
+**Databases:** MySQL · MongoDB Atlas
+**Developer Tools:** Git · GitHub · VS Code · Netlify · Overleaf
+**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming · APIs
 
-Developing a graph-based restaurant ordering agent with state management, conditional routing, inventory validation, customer confirmation, and retry handling.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[View Repository](https://github.com/Ashutoshumar17/Restaurant-Order-Automation-Agent.git)
+## 📡 ECE Skills
 
-### 2. 🤖 AI Agent
-**Python · Groq · LLM Tool Calling · Tavily**
+**Core:** Digital Electronics · Analog Electronics · Microprocessors & Microcontrollers · Communication Systems · Signal Processing · CMOS VLSI Design · Circuit Design
+**Engineering Tools:** MATLAB · Cadence Virtuoso · Ansys HFSS · LTspice
 
-An AI agent that interprets natural-language queries, executes selected tools, processes tool results, and generates responses.
+### ECE Projects
 
-[View Repository](https://github.com/Ashutoshumar17/Ai_Agent)
-
-### 3. 📄 Hireme — AI Resume Assistant
-**Python · FastAPI · Groq API · Pydantic**
-
-An AI-powered resume assistant for extracting structured information from PDF resumes and answering questions grounded in resume content.
-
-[View Repository](https://github.com/Ashutoshumar17/AI-Resume-Assistant)
-
-### 4. 🔎 RAG-based Q&A System
-**Python · Sentence Transformers · NumPy · Groq**
-
-A Retrieval-Augmented Generation system that uses embeddings and cosine similarity to retrieve relevant information before generating responses.
-
-[View Repository](https://github.com/Ashutoshumar17/RAG_QnA)
-
-### 5. 🎧 Audio DSP / Digital Hearing Aid
-**Python · Digital Signal Processing**
-
-An ECE-oriented project exploring audio processing, digital filtering, and frequency-domain analysis.
-
-[View Repository](https://github.com/Ashutoshumar17/AudioDSP-HearingAid)
-
----
-
-## 🔬 VLSI & Electronics Projects
-
-### 1. ⚡ Five-Stage CMOS Ring Oscillator
-**Cadence Virtuoso · CMOS VLSI · Full-Custom Layout**
-
-- Designed a five-stage CMOS ring oscillator using inverter stages.
-- Created the transistor-level schematic and full-custom physical layout in Cadence Virtuoso.
-- Explored CMOS circuit design, layout implementation, and oscillator behavior.
-
-### 2. 🧠 6T SRAM Cell Design
-**Cadence Virtuoso · CMOS VLSI · SRAM**
-
-- Worked on the design of a six-transistor (6T) SRAM cell using CMOS transistors.
-- Explored the role of cross-coupled inverters in storing data and access transistors in read/write access.
-- Used Cadence Virtuoso for SRAM circuit design.
-
-### 3. 🔌 8051 Microcontroller Project
-**8051 · Assembly · LCD Interfacing**
-
-- Worked on an 8051-based project involving LCD interfacing and peripheral connections.
-- Explored microcontroller programming, control signals, and hardware integration.
+- **Hearing Aid (Signal Processing)**: signal-processing-based hearing aid project <!-- TODO: add a one-line description of what it does + tools used, and the repo link -->
+- [**Embedded-Keypad-Security-System**](https://github.com/Ashutoshumar17/Embedded-Keypad-Security-System): embedded keypad-based security system
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
-- **GitHub:** [Ashutoshumar17](https://github.com/Ashutoshumar17)
-- **LinkedIn:** [Ashutosh Kumar](https://linkedin.com/in/ashutosh-kumar-473208370)
-- **Email:** [Contact Me](mailto:Ashutosh.kumar2024@vitstudent.ac.in)
+![Ashutosh's GitHub stats](https://github-readme-stats.shion.dev/api?username=Ashutoshumar17&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashutoshumar17&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 🌐 Connect
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ashutoshumar17&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshumar17&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-*Learning continuously. Building practical projects. Exploring the intersection of AI and Electronics & Communication Engineering.*
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-473208370)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashukr0410@gmail.com)
