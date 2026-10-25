@@ -73,35 +73,26 @@
 ---
 ## 💻 Software Projects
 
-### 1. [AI Resume Shortlister](https://github.com/Ashutoshumar17)
-**Technologies:** Python, Groq API, LLMs, Pydantic, PyPDF
-
-An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
-
-### 2. [RAG Question Answering System](https://github.com/Ashutoshumar17)
+### 1. [RAG Question Answering System](https://github.com/Ashutoshumar17)
 **Technologies:** Python, Sentence Transformers, Qdrant, LLMs
 
 A retrieval-augmented generation system that uses semantic embeddings and vector search to retrieve relevant information for question answering.
 
-### 3. [Cloud-Integrated Smart Attendance System](https://github.com/Ashutoshumar17)
+### 2. [Cloud-Integrated Smart Attendance System](https://github.com/Ashutoshumar17)
 **Technologies:** Python, FastAPI, MongoDB Atlas, JavaScript, AWS EC2
 
 A web-based attendance system featuring camera integration, attendance tracking, an administrative dashboard, attendance summaries, and CSV reporting.
 
-### [AI Agent with Tool Calling](https://github.com/Ashutoshumar17/Ai_Agent)
+### 3. [AI Agent with Tool Calling](https://github.com/Ashutoshumar17/Ai_Agent)
 
 **Technologies:** Python, Groq API, Tavily API, Weather API, Tool Calling
 
-An AI-powered agent that intelligently selects and executes tools based on the user's query.
+An AI-powered Python agent that automatically selects tools for web search using Tavily, mathematical calculations, and real-time weather updates through an interactive CLI with error handling.
 
-**Key Features**
-- **Web Search Tool:** Searches the web using the Tavily API.
-- **Calculator Tool:** Performs mathematical calculations.
-- **Weather Tool:** Retrieves real-time weather information.
-- **Automatic Tool Selection:** The LLM determines which tool is appropriate for each query.
-- **Interactive CLI:** Provides a user-friendly command-line interface.
-- **Error Handling:** Implements graceful error handling and fallback mechanisms.
+### 4. [AI Resume Shortlister](https://github.com/Ashutoshumar17)
+**Technologies:** Python, Groq API, LLMs, Pydantic, PyPDF
 
+An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
 ---
 
 ## ⚡ Electronics & Embedded Systems Projects
