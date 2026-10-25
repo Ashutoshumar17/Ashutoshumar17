@@ -63,7 +63,6 @@
 ## 🔌 Electronics & Communication Engineering
 
 - Digital and Analog Electronics
-- Microprocessors and Microcontrollers
 - Embedded C and 8051 Microcontrollers
 - Digital Signal Processing
 - Communication Systems
