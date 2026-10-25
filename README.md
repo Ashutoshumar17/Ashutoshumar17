@@ -9,8 +9,7 @@ Hi! I'm an **Electronics and Communication Engineering (ECE) student at VIT Chen
 **Backend & Cloud:** REST APIs, Uvicorn, AWS EC2  
 **Databases:** MySQL, MongoDB Atlas  
 **Developer Tools:** Git, GitHub, VS Code, Netlify, Overleaf  
-**ECE Skills:** Digital Electronics, Analog Electronics, Microprocessors & Microcontrollers, Communication Systems, Signal Processing, CMOS VLSI Design, Circuit Design  
-**ECE Projects:** Digital Hearing Aid (Signal Processing)  
+**ECE Skills:** Digital Electronics, Analog Electronics, Microprocessors & Microcontrollers, Communication Systems, Signal Processing, CMOS VLSI Design, Circuit Design   
 **Core Concepts:** Data Structures & Algorithms, Object-Oriented Programming, APIs  
 **Engineering Tools:** MATLAB, Cadence Virtuoso, Ansys HFSS, LTspice
 
