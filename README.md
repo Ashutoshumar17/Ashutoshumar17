@@ -122,8 +122,7 @@ Designed and simulated a transmission-gate-based multiplexer, exploring transist
 
 A VLSI design project involving a five-stage CMOS ring oscillator and layout development.
 
-### 6. Digital Signal Processing Experiments
-**Technologies:** MATLAB, Digital Signal Processing
+
 
 Implemented and analyzed discrete-time signals, convolution, Fourier transforms, and other fundamental digital signal processing operations.
 ## ⭐ My Starred Repositories
