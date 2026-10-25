@@ -89,9 +89,12 @@ A web-based attendance system featuring camera integration, attendance tracking,
 
 An AI-powered Python agent that automatically selects tools for web search using Tavily, mathematical calculations, and real-time weather updates through an interactive CLI with error handling.
 
-### 4. [AI Resume Shortlister](https://github.com/Ashutoshumar17)
-**Technologies:** Python, Groq API, LLMs, Pydantic, PyPDF
-    An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
+4. AI Resume Shortlister
+
+Technologies: Python, Groq API, LLMs, Pydantic, PyPDF
+
+An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
+
 ---
 
 ## ⚡ Electronics & Embedded Systems Projects
