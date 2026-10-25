@@ -71,29 +71,24 @@
 - Antenna Design and Electromagnetic Simulation
 
 ---
-
 ## 💻 Software Projects
 
-### 1. AI Resume Shortlister
-
+### 1. [AI Resume Shortlister](https://github.com/Ashutoshumar17)
 **Technologies:** Python, Groq API, LLMs, Pydantic, PyPDF
 
 An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
 
-### 2. RAG Question Answering System
-
+### 2. [RAG Question Answering System](https://github.com/Ashutoshumar17)
 **Technologies:** Python, Sentence Transformers, Qdrant, LLMs
 
 A retrieval-augmented generation system that uses semantic embeddings and vector search to retrieve relevant information for question answering.
 
-### 3. Cloud-Integrated Smart Attendance System
-
+### 3. [Cloud-Integrated Smart Attendance System](https://github.com/Ashutoshumar17)
 **Technologies:** Python, FastAPI, MongoDB Atlas, JavaScript, AWS EC2
 
 A web-based attendance system featuring camera integration, attendance tracking, an administrative dashboard, attendance summaries, and CSV reporting.
 
-### 4. AI Agent & Weather Application
-
+### 4. [AI Agent & Weather Application](https://github.com/Ashutoshumar17/Ai_Agent)
 **Technologies:** Python, Groq API, REST APIs, WeatherAPI
 
 An AI-powered weather application that integrates a language model with a weather API to provide weather information through natural-language interaction.
@@ -102,32 +97,35 @@ An AI-powered weather application that integrates a language model with a weathe
 
 ## ⚡ Electronics & Embedded Systems Projects
 
-### 1. 8051-Based Water-Level Controller
+### 1. [AudioDSP — Hearing Aid](https://github.com/Ashutoshumar17/AudioDSP-HearingAid)
+**Technologies:** Python, Digital Signal Processing, Audio Processing
 
+A digital audio-processing project exploring signal processing techniques for hearing-aid applications.
+
+### 2. [Embedded Keypad Security System](https://github.com/Ashutoshumar17/Embedded-Keypad-Security-System)
+**Technologies:** Embedded Systems, Microcontroller, Keypad Interface
+
+An embedded security system that uses a keypad-based interface for access control.
+
+### 3. [8051-Based Water-Level Controller](https://github.com/Ashutoshumar17)
 **Technologies:** AT89S52, Embedded C/Assembly, HC-SR04, LCD, Relay
 
 An embedded system designed to monitor water levels using an ultrasonic sensor and control a water pump through a microcontroller.
 
-### 2. CMOS Transmission-Gate Multiplexer
-
+### 4. [CMOS Transmission-Gate Multiplexer](https://github.com/Ashutoshumar17)
 **Technologies:** Cadence Virtuoso, GPDK 90, CMOS VLSI
 
 Designed and simulated a transmission-gate-based multiplexer, exploring transistor sizing and propagation delay.
 
-### 3. Five-Stage CMOS Ring Oscillator
-
+### 5. [Five-Stage CMOS Ring Oscillator](https://github.com/Ashutoshumar17)
 **Technologies:** Cadence Virtuoso, GPDK 90, CMOS Layout
 
 A VLSI design project involving a five-stage CMOS ring oscillator and layout development.
 
-### 4. Digital Signal Processing Experiments
-
+### 6. Digital Signal Processing Experiments
 **Technologies:** MATLAB, Digital Signal Processing
 
 Implemented and analyzed discrete-time signals, convolution, Fourier transforms, and other fundamental digital signal processing operations.
-
----
-
 ## ⭐ My Starred Repositories
 
 Explore the open-source projects and repositories I have starred on GitHub.
