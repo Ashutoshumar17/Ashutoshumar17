@@ -91,8 +91,7 @@ An AI-powered Python agent that automatically selects tools for web search using
 
 ### 4. [AI Resume Shortlister](https://github.com/Ashutoshumar17)
 **Technologies:** Python, Groq API, LLMs, Pydantic, PyPDF
-
-An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
+    An AI-powered application that analyzes resumes and assists with candidate shortlisting using large language models.
 ---
 
 ## ⚡ Electronics & Embedded Systems Projects
