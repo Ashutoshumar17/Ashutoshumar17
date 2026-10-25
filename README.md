@@ -88,10 +88,19 @@ A retrieval-augmented generation system that uses semantic embeddings and vector
 
 A web-based attendance system featuring camera integration, attendance tracking, an administrative dashboard, attendance summaries, and CSV reporting.
 
-### 4. [AI Agent & Weather Application](https://github.com/Ashutoshumar17/Ai_Agent)
-**Technologies:** Python, Groq API, REST APIs, WeatherAPI
+### [AI Agent with Tool Calling](https://github.com/Ashutoshumar17/Ai_Agent)
 
-An AI-powered weather application that integrates a language model with a weather API to provide weather information through natural-language interaction.
+**Technologies:** Python, Groq API, Tavily API, Weather API, Tool Calling
+
+An AI-powered agent that intelligently selects and executes tools based on the user's query.
+
+**Key Features**
+- **Web Search Tool:** Searches the web using the Tavily API.
+- **Calculator Tool:** Performs mathematical calculations.
+- **Weather Tool:** Retrieves real-time weather information.
+- **Automatic Tool Selection:** The LLM determines which tool is appropriate for each query.
+- **Interactive CLI:** Provides a user-friendly command-line interface.
+- **Error Handling:** Implements graceful error handling and fallback mechanisms.
 
 ---
 
